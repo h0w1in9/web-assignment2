@@ -1,0 +1,46 @@
+body
+{
+	align:center;
+	font-size: 18px;
+}
+
+#cp
+{
+	color:grey;
+}
+   
+
+#s_fm{  
+	position:absolute;  
+
+	bottom:0px;  
+	
+	left:500px;
+ }  
+ 
+ #qd
+ {
+ height:30px;
+     border-style: solid;
+  border-width: 0px;
+  color:blue;
+  font:14px arial;
+
+ }
+
+input
+{
+height:22px;
+}
+
+body
+{
+text-align:center;
+}
+#cp{
+font:12px arial;
+}
+
+#lh{
+font:12px arial;
+}
